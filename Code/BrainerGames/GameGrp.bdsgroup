@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{A0262D1D-3F8F-435E-830D-CE0E2901CB50}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="BGame_Investment.dll">Investment\BGame_Investment.bdsproj</Projects>
+      <Projects Name="BGame_Restaurant.dll">Restaurant\BGame_Restaurant.bdsproj</Projects>
+      <Projects Name="BGame_Sequence1.dll">Sequence1\BGame_Sequence1.bdsproj</Projects>
+      <Projects Name="BGame_Conversion_MetImp_Area.dll">Conversion_MetImp_Area\BGame_Conversion_MetImp_Area.bdsproj</Projects>
+      <Projects Name="BGame_ElapsedTime1.dll">ElapsedTime1\BGame_ElapsedTime1.bdsproj</Projects>
+      <Projects Name="BGame_MonthlyPayments.dll">MonthlyPayments\BGame_MonthlyPayments.bdsproj</Projects>
+      <Projects Name="BGame_Conversion_MetImp_Length.dll">Conversion_MetImp_Length\BGame_Conversion_MetImp_Length.bdsproj</Projects>
+      <Projects Name="BGame_Conversion_MetImp_Weight.dll">Conversion_MetImp_Weight\BGame_Conversion_MetImp_Weight.bdsproj</Projects>
+      <Projects Name="BGame_TriviaManager.dll">TriviaManager\BGame_TriviaManager.bdsproj</Projects>
+      <Projects Name="BGame_ElapsedTime2.dll">ElapsedTime2\BGame_ElapsedTime2.bdsproj</Projects>
+      <Projects Name="BGame_NumberBases.dll">NumberBases\BGame_NumberBases.bdsproj</Projects>
+      <Projects Name="BGame_Currency.dll">Currency\BGame_Currency.bdsproj</Projects>
+      <Projects Name="BGame_DaysDate.dll">DaysDate\BGame_DaysDate.bdsproj</Projects>
+      <Projects Name="BGame_FigureThePhrase.dll">FigureThePhrase\BGame_FigureThePhrase.bdsproj</Projects>
+      <Projects Name="BGame_ReduceWord.dll">ReduceWord\BGame_ReduceWord.bdsproj</Projects>
+      <Projects Name="Targets">BGame_Investment.dll BGame_Restaurant.dll BGame_Sequence1.dll BGame_Conversion_MetImp_Area.dll BGame_ElapsedTime1.dll BGame_MonthlyPayments.dll BGame_Conversion_MetImp_Length.dll BGame_Conversion_MetImp_Weight.dll BGame_TriviaManager.dll BGame_ElapsedTime2.dll BGame_NumberBases.dll BGame_Currency.dll BGame_DaysDate.dll BGame_FigureThePhrase.dll BGame_ReduceWord.dll</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

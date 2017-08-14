@@ -1,0 +1,52 @@
+NewSection-Easy
+What is next: 8080 = 6;  1357 = 0;   2022 = 1;   1999 = 3;   6666 = ? -- 4 --
+Dummy -- 1 --
+Dummy -- 2 --
+Dummy -- 3 --
+Dummy -- 6 --
+Dummy -- 5 --
+Dummy -- 2 --
+NewSection-Easy
+What is next: 1, 11, 21, 1211 -- 111221 --
+Dummy -- 121221 --
+Dummy -- 211221 --
+Dummy -- 12221 --
+Dummy -- 111121 --
+NewSection-Easy
+What is next: 178,56,30 -- 0 -- digits multiplied $$
+What is next: 16,37,58,89,145,42 -- 20 -- sum of squares of digits $$
+What is next: 12,33,66,132,363 -- 726 -- added to digits reversed eg 12+21=33 $$
+What is next: 12,35,81,173,357 -- 725 -- twice plus 11 $$
+What is next: 1,9,25,49 -- 81 -- odd numbers squared $$
+What is next: 5,12,24,36,52 -- 68 -- sum of consecutive primes $$
+What is next: 10,6,8,15,34 -- 90 -- (x/2+1)*n $$
+NewSection-Easy
+What is next: 1,1,2,3,5,8,13 -- 21 --
+What is next: 5,8,13,21,34,55 -- 89 --
+What is next: 34,55,89,144,233 -- 377 --
+What is next: 3,5,8,13,21,34 -- 55 --
+What is next: 8,13,21,34,55,89 -- 144 --
+NewSection-Easy
+What is next: 2,3,5,7,11,13,17 -- 19 --
+What is next: 7,11,13,17,19,23 -- 29 --
+What is next: 11,13,17,19,23,29 -- 31 --
+What is next: 3,5,7,11,13,17,19 -- 23 --
+What is next: 19,23,29,31,37,41 -- 43 --
+NewSection-Easy
+What is next: 1,2,4,8,61,23,46,821 -- 652 -- double reverse of digits $$
+Dummy -- 39 --
+Dummy -- 942 --
+Dummy -- 64 --
+Dummy -- 1642 --
+NewSection-Easy
+What is next: 11*11=4, 22*22=16, 33*33=18, 44*44=? -- 19 -- multiply then add digits $$
+Dummy -- 16 --
+Dummy -- 17 --
+Dummy -- 18 --
+Dummy -- 20 --
+NewSection-Easy
+Which letter comes next in the following sequence?: W,L,C,N,I,T,F -- S -- first letters of question $$
+Dummy -- V --
+Dummy -- D --
+Dummy -- J --
+Dummy -- H --

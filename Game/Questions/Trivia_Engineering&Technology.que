@@ -1,0 +1,322 @@
+NewSection-Easy
+What splits data evenly across two or more disks, without parity information, redundancy, or fault tolerance? -- RAID0 --
+What consists of an exact copy (or mirror) of a set of data on two or more disks; a classic RAID 1 mirrored pair contains two disks? -- RAID1 --
+What refers to the storing of the same data multiple times in a RAID array? -- Redundancy --
+What refers to an operating system intended to serve real-time application process data as it comes in, typically without buffering delays? -- RTOS --
+What is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves) from fixed and mobile devices, and building personal area networks (PANs)? -- Bluetooth -- 
+What is a technology that allows an electronic device to exchange data or connect to the internet wirelessly using 2.4 GHz UHF and 5 GHz SHF radio waves? -- Wi-Fi --
+What is a family of computer networking technologies for local area networks (LANs)? -- Ethernet --
+What refers to the third generation of mobile telecommunications technology? -- 3G --
+What is the process of sending data one bit at a time, sequentially, over a communication channel or computer bus? -- Serial Communication --
+What is a standard for serial communication transmission of data, allowing both simplex and half duplex modes? -- RS-232 --
+What is a standard for serial communication transmission of data, allowing both half and full duplex modes? -- RS-485 --
+What is a serial communications protocol originally published by Modicon (now Schneider Electric) in 1979 for use with its programmable logic controllers (PLCs)? -- Modbus --
+What is a vehicle bus standard designed to allow microcontrollers and devices to communicate with each other within a vehicle without a host computer? -- CAN (controller area network) --
+What refers to cables found in many Ethernet networks and telephone systems, where no special EMF protection had been added? -- UTP (Unshielded twisted pair) --
+What refers to cables found in many Ethernet networks and telephone systems, where the entire cable has shield foil added? -- FTP (Foiled twisted pair) --
+What refers to cables found in many Ethernet networks and telephone systems, where the individual twisted pairs are foiled? -- STP (Shielded twisted pair) --
+What is an electrical connector designed to be connected to the conductor(s) of an insulated cable by a connection process which forces a selectively sharpened blade through the insulation? -- IDC (Insulation-displacement connector) --
+What is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems? -- POSIX (Portable Operating System Interface) --
+What is a suggested flash for a roadside speed camera? -- IR --
+What is a hardware or software control interface for an automated system? -- OCU (Operator Control Unit) --
+What a small computer that contains a microprocessor as its central processor? -- Microcomputer --
+What is a class of smaller computers that developed in the mid-1960s and sold for much less than mainframe and mid-size computers from IBM and its direct competitors? -- Minicomputer --
+What are computers used primarily by large organizations for critical applications, bulk data processing such as census, industry and consumer statistics, enterprise resource planning, and transaction processing? -- Mainframe --
+NewSection-Easy
+What refers to establishing a connection only when when required? -- Lazy --
+What is an application protocol for distributed, collaborative, hypermedia information systems? -- HTTP (Hypertext Transfer Protocol) --
+What provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network? -- NetBIOS (Network Basic In/Out System) --
+What is one of the core protocols of the Internet protocol suite and provides reliable, ordered and error-checked delivery of a stream of octets? -- TCP (Transmission Control Protocol) --
+What is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries? -- IP (Internet Protocol) --
+What provides addressing and channel access control mechanisms that make it possible for several terminals or network nodes to communicate within a multiple access network that incorporates a shared medium? -- MAC (Media access control) --
+What is a hostname that means this computer or this host that may be used to access network services that are running on the host via its loopback network interface. On most computer systems, localhost resolves to the IP address 127.0.0.1. -- Localhost --
+What is a form of Windows computer network in which all user accounts, computers, printers and other security principals, are registered with a central database located on one or more clusters of central computers known as controllers? -- Domain --
+What is a transport layer protocol defined for use with the IP network layer protocol that does not guarantee delivery? -- UDP (User Datagram Protocol) --
+What is one of the main protocols in TCP/IP networks which enables a connection to be established, guarantees delivery and that packets will be delivered in the same order in which they were sent? -- TCP (Transmission Control Protocol) --
+What name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet? -- Domain --
+What is a piece of data that is used in network communications (often over HTTP) to identify a session, often expiring after a set period of time? Token
+NewSection-Easy
+What is the domain name in the url: stuff.blog.domainsherpa.com? -- domainsherpa --
+Dummy -- blog --
+Dummy -- com --
+Dummy -- stuff --
+Dummy -- None of these options --
+NewSection-Easy
+What is the Windows shortcut key for the Start Menu? -- Windows Key --
+What is the Windows shortcut key combination for the Run Dialogue? -- Windows+R --
+What is the Windows shortcut key combination for text Copy? -- CTRL+C --
+What is the Windows shortcut key combination for text Cut? -- CTRL+X --
+What is the Windows shortcut key combination for text Paste? -- CTRL+V --
+What is the Windows shortcut key combination for text Undo? -- CTRL+Z --
+What is the Windows shortcut key combination for text Bold? -- CTRL+B --
+What is the Windows shortcut key combination for text Underline? -- CTRL+U --
+What is the Windows shortcut key combination for text Italic? -- CTRL+I --
+What is the Windows shortcut key combination for text Find? -- CTRL+F --
+What is the Windows shortcut key combination for text Replace? -- CTRL+H --
+What is the Windows shortcut key combination for close window? -- ALT+F4 --
+NewSection-Easy
+What does KVM stand for in the context of a switch? -- Keyboard, Video, Mouse --
+Dummy -- Keyboard, Video, Memory --
+Dummy -- Keyboard, Voltage, Memory --
+Dummy -- Keyboard, Vector, Mouse --
+Dummy -- Kernel-based Virtual Machine --
+NewSection-Easy
+What does DRAM stand for? -- Dynamic random-access memory --
+Dummy -- Digital random-access memory --
+Dummy -- Dynamic read-all memory --
+Dummy -- Digital read-all motor --
+Dummy -- Digital restricted-access memory --
+NewSection-Easy
+What does SRAM stand for? -- Static random-access memory --
+Dummy -- Switched random-access memory --
+Dummy -- Static read-all memory --
+Dummy -- Switched read-all motor --
+Dummy -- Switched restricted-access memory --
+NewSection-Easy
+In windows a user mode application address space is said to be? -- Virtual and Private --
+Dummy -- Real and Shared --
+In windows a kernal mode application address space is said to be? -- Virtual and Shared --
+Dummy -- Real and Private --
+Dummy -- None of the other options --
+NewSection-Easy
+For a 32-bit Windows process, the virtual address space is usually what size? -- 2GB --
+Dummy -- 1GB --
+Dummy -- 4GB --
+For a 64-bit Windows process, the virtual address space is usually what size? -- 8TB --
+Dummy -- 4TB --
+Dummy -- 16TB --
+NewSection-Easy
+In a Windows system what does commit charge refer to? -- The total amount of pageable virtual address space. --
+What is a pagefile? -- A file on the hard disk to which the OS moves pages (4-KB pieces). --
+Dummy -- The total amount of non-pageable virtual address space. --
+Dummy -- The remaining amount of pageable virtual address space. --
+Dummy -- The remaining amount of non-pageable virtual address space. --
+Dummy -- The total amount of RAM. --
+NewSection-Easy
+Term used to describe the process of detecting, identifying and loading drivers for a USB device. -- Enumeration --
+Dummy -- Initialisation --
+Dummy -- Discovery --
+Dummy -- Booting --
+Dummy -- Installation --
+NewSection-Easy
+A user calls first thing Monday morning saying she has an error message at bootup that says her case was opened. She’s looked at the computer, but it seems normal. What does this tell you about her computer? -- Her computer case has chassis intrusion detection. --
+Dummy -- Her computer has TPM enabled in the CMOS. --
+Dummy -- The fan stopped over the weekend. --
+Dummy -- It doesn’t tell you anything about the computer. --
+Dummy -- The graphics card has become unseated. --
+NewSection-Easy
+What is the correct boot sequence for a PC?  -- Power good, CPU, POST, boot loader, operating system --
+Dummy -- Power good, boot loader, CPU, POST, operating system --
+Dummy -- POST, power good, CPU, boot loader, operating system --
+Dummy -- CPU, POST, power good, boot loader, operating system  --
+Dummy -- POST, CPU, power good, boot loader, operating system --
+NewSection-Easy
+When you turn on your computer, what is accessed first?  -- The CPU --
+Dummy -- The setup program --
+Dummy -- The POST --
+Dummy -- The CMOS chip --
+Dummy -- The BIOS --
+NewSection-Easy
+Jack decided to go retro and added a second floppy disk drive to his computer. He thinks he has it physically installed correctly, but it doesn’t show up in Windows. Which of the following options will most likely lead Jack where he needs to go to resolve the issue? -- In Windows use the Floppy Disk Drive Setup Wizard. --
+Dummy -- Reboot the computer and press the F key on the keyboard twice. --
+Dummy -- Reboot the computer and enter the CMOS setup utility. --
+Dummy -- In Windows, press the DELETE x2 to enter the CMOS setup utility. --
+Dummy -- Download the correct drivers from the internet. --
+NewSection-Easy
+What does BIOS provide for the computer? (Choose the best answer) -- Programming that enables the CPU to talk to other HW. --
+Dummy -- Physical interface for devices such as USB and FireWire. --
+Dummy -- Memory space for applications to load into from the hard drive. --
+Dummy -- Memory space for applications to load into from the RAM. --
+Dummy -- BIOS provides a boot environment for the Hard Drive. --
+NewSection-Easy
+Which of the following will result in a POST beep code message? -- The video card is not seated properly. --
+Dummy -- The system is overheating. --
+Dummy -- The keyboard is unplugged. --
+Dummy -- The hard drive has crashed. --
+Dummy -- The monitor is not plugged in. --
+NewSection-Easy
+Which of the following statements is true about CMOS? -- It's a low-energy chip that's battery powered when computer off. --
+Dummy -- It's a config program that runs from the hard drive during booting. --
+Dummy -- CMOS includes the power-on self test (POST) routines. --
+Dummy -- It's the Southbridge that controls input and output devices. --
+Dummy -- It's the Northbridge where data flows between the CPU & RAM. --
+NewSection-Easy
+Which of the following most typically enables you to upgrade a flash ROM chip? -- Run a small command-line program combined with a BIOS update file. --
+Dummy -- Remove the chip and replace it with a different one. --
+Dummy -- Reboot the computer. --
+Dummy -- Install a different operating system. --
+Dummy -- Erase the chip with UV light. --
+NewSection-Easy
+After a sudden power outage, Morgan’s PC rebooted, but nothing appeared on the screen. The PC just beeps at him, over and over and over. What’s most likely the problem? -- The power outage toasted his RAM. --
+Dummy -- The power outage toasted his video card. --
+Dummy -- The power outage toasted his hard drive. --
+Dummy -- The power outage toasted his CPU. --
+Dummy -- The power outage toasted his motherboard. --
+NewSection-Easy
+Mohinder finds that a disgruntled former employee decided to sabotage her computer when she left by putting a password in CMOS that stops the computer from booting. What can Mohinder do to solve this problem? -- Boot with a shunt on the CMOS clear motherboard jumper. --
+Dummy -- Boot the computer while holding the left SHIFT key. --
+Dummy -- Try various combinations of the former employee’s name. --
+Dummy -- He should find a replacement motherboard. --
+Dummy -- Download a command line tool and use that to reset. --
+John wants to completely erase his HD, what should he do? -- Create a bootable CD or usb, configure BIOS to boot from that media and then run a multi-pass format tool. --
+NewSection-Easy
+Which chip does the CPU use to communicate with high-speed devices such as video cards or RAM? -- Northbridge --
+Dummy -- Complementary metal-oxide semiconductor --
+Dummy -- Southbridge --
+Dummy -- Scan code --
+Dummy -- ROM chip --
+NewSection-Easy
+When your computer boots up and you press the appropriate key to enter the CMOS setup utility, a small program loads, allowing you to specify settings for various hardware devices. Where is this small program permanently stored? -- In the ROM --
+Dummy -- In CMOS --
+Dummy -- On the hard drive --
+Dummy -- In RAM --
+Dummy -- On an external device. --
+NewSection-Easy
+When you enter the CMOS setup utility (as in the previous question) and make changes, where are your settings stored? -- In CMOS --
+Dummy -- In the BIOS --
+Dummy -- On the hard drive --
+Dummy -- In RAM --
+Dummy -- On an external device. --
+NewSection-Easy
+Jill boots up an older Pentium III system that has been the cause of several user complaints at the office. The system powers up and starts to run through POST but then stops. The screen displays a “CMOS configuration mismatch” error. Of the following list, what is the most likely cause of this error? -- Dying CMOS battery --
+Dummy -- Bad CPU --
+Dummy -- Bad RAM --
+Dummy -- Corrupt system BIOS --
+Dummy -- Faulty motherboard --
+NewSection-Easy
+What is a standardized cable for Gigabit Ethernet and other network physical layers that provides performance of up to 250 MHz? -- cat6 --
+What is a twisted pair cable for carrying signals that provides performance of up to 100 MHz? -- cat5 --
+What is a modular connector commonly used to terminate twisted pair and multi-conductor flat cable? -- 8 position 8 contact (8P8C) --
+What is the 8P8C connector in the context of ethernet commonly called? -- RJ45 --
+Which of these refers to pin assignments? -- T568A and T568B --
+Standard cmd to display all current TCP/IP network configuration values and refresh the Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings? -- ipconfig --
+NewSection-Easy
+What does the RJ in RJ45 stand for? -- Registered jack --
+Dummy -- Radio jack --
+Dummy -- Real jack --
+Dummy -- Real-time jack --
+Dummy -- Raster jack --
+NewSection-Easy
+What is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second? -- Bandwidth --
+What is an expression of how much time it takes for a packet of data to get from one designated point to another? -- Latency --
+What reflects the time taken for a single packet of data to transmit from source to destination? -- Speed --
+Dummy -- Breadth --
+Dummy -- Width --
+NewSection-Easy
+What is the typical speed of Cat5e cables? -- 1 Gbps --
+What is the typical speed of Cat6 cables? -- 10 Gbps --
+What is the typical speed of 802.11ac wireless? -- 1 Gbps --
+What is the typical speed of 802.11n wireless? -- 300 Mbps --
+What is the typical speed of Bluetooth 4.0? -- 25 Mbps --
+What is the typical speed of USB 2.0? -- 480 Mbps --
+What is the typical speed of USB 3.0? -- 5 Gbps --
+NewSection-Easy
+What is a system to control the logistical chain from a production point of view, and is an inventory control system? -- Kanban --
+What is a group of software development methods in which solutions evolve through collaboration between self-organizing, cross-functional teams? -- Agile --
+What is a sequential design process in which progress is seen as flowing steadily downwards through the phases of conception, initiation, analysis, design, construction, testing, production/implementation and maintenance? -- Waterfall --
+What is a systematic method for the elimination of waste ("Muda") within a manufacturing system? -- Lean --
+Dummy -- Slick --
+NewSection-Easy
+What is a proprietary file system developed by Microsoft. Starting with Windows NT 3.1, it is the default file system of Windows NT family? -- NTFS (New Technology File System) --
+What is a computer file system architecture and a family of industry-standard file systems utilizing it, originally designed in 1977 for use on floppy disks? -- FAT (File Allocation Table) --
+What updated file system allows for a default cluster size as small as 4 KB, and includes support for EIDE hard disk sizes larger than 2 gigabytes? -- FAT32 --
+What is an open-source file system specifically designed to be fast, robust and suitable for embedded use with NAND and NOR Flash? -- Yaffs (Yet Another Flash File System) --
+Dummy -- Minix V3 FS --
+NewSection-Easy
+What is a typeface that does not have the small projecting features at the end of strokes? -- Sans-Serif --
+What is a typeface that has small projecting features at the end of strokes? -- Serif --
+What is a serif typeface commissioned by the British newspaper The Times in 1931? -- Times New Roman --
+What is a sans-serif typeface and set of computer fonts? -- Arial --
+What is a monospaced slab serif typeface designed to resemble the output from a strike-on typewriter? -- Courier --
+NewSection-Easy
+What happens if you only follow a phishing email link? -- Sender can determine that you followed the link and add you as a more worthy target --
+Dummy -- Sender can install a keylogger and obtain your bank details --
+Dummy -- Sender can install malware --
+Dummy -- None of these options --
+Dummy -- All of these options --
+NewSection-Easy
+Is adding a delay to an internet page account log in sufficient to stop a brute force hack? If not why? -- Hacker can gain access via another channel and brute force the DB directly --
+Dummy -- Yes it is in all circumstances --
+Dummy -- It should be if the security is sufficient --
+Dummy -- None of these options --
+Dummy -- All of these options --
+NewSection-Easy
+What type of orbits are typical for GPS satellites? -- Orbital period roughly 12 hours --
+Dummy -- Geosynchronous --
+Dummy -- High Earth Orbit --
+Dummy -- Low Earth Orbit --
+Dummy -- Orbital period roughly 2 hours --
+NewSection-Easy
+What effect are GPS satellites prone to? -- Time dilation --
+Dummy -- Time expansion --
+Dummy -- Neither of these --
+Dummy -- Both of these depending on relative satellite position --
+Dummy -- None of these options --
+NewSection-Easy
+What is a measurement procedure accepted as measurement results fit for their intended use in assessing measurement trueness of measured quantity values obtained from other ‘measurement procedures’ for quantities of the same kind, in calibration, or in characterizing reference materials? -- Reference Measurement --
+Dummy -- True Measurement --
+Dummy -- Test Measurement --
+Dummy -- Calibration Measurement --
+Dummy -- None of these options --
+NewSection-Easy
+What is the propogated error for two measurements x & y with errors a & b on multiplication? -- bx+ay+ab --
+What is the propogated error for two measurements x & y with errors a & b on addition? -- a+b --
+Dummy -- ab --
+Dummy -- 2ab --
+Dummy -- 2(a+b) --
+NewSection-Easy
+What refers to a library that is included in the specification of a programming language? -- Standard --
+What is software that is owned by an individual or a company? -- Proprietary --
+What is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose? -- Open source --
+What is free software whose distribution terms ensure that all copies of all versions carry more or less the same distribution terms (ie not allowed to add to terms)? -- Copylefted software --
+What is software which comes with permission for people to redistribute copies, but says that anyone who continues to use a copy is required to pay a license fee? -- Shareware -- 
+NewSection-Easy
+What protocol is built on a client-server model architecture and uses separate control and data connections between the client and the server and uses port 21? -- FTP (File Transfer Protocol) --
+What ia a cryptographic network protocol for operating network services securely over an unsecured network and uses port 22? -- SSH (Secure Shell) --
+What application layer protocol is used on the Internet or local area networks to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection and uses port 23? -- Telnet --
+What protocol is an Internet standard for electronic mail (email) transmission and uses port 25? -- SMTP (Simple Mail Transfer Protocol) --
+What protocol is a hierarchical decentralized naming system for computers, services, or any resource connected to the Internet or a private network and uses port 53? -- DNS (Domain Naming System) --
+What application protocol is for distributed, collaborative, hypermedia information systems and uses port 80? -- HTTP (Hypertext Transfer Protocol) --
+What application-layer Internet standard protocol is used by local e-mail clients to retrieve e-mail from a remote server over a TCP/IP connection and uses port 110? -- POP3 (Post Office Protocol) --
+What Internet standard protocol is used by e-mail clients to retrieve e-mail messages from a mail server over a TCP/IP connection and uses port 143? -- IMAP (Internet Message Access Protocol) --
+What protocol is for secure communication over a computer network which is widely used on the Internet and uses port 443? -- HTTPS (HTTP Secure) --
+What protocol was developed by Microsoft to providea a user with a graphical interface to connect to another computer over a network connection and uses port 3389? -- RDP (Remote Desktop Protocol) --
+NewSection-Easy
+What is a method to wipe data from a HD? -- Magnet -- 
+What is a technique of using a modem to automatically scan through a list of telephone numbers? -- War dial --
+What is password guessing commonly referred to as? -- Brute force --
+What involves one program, system or website that successfully masquerades as another by falsifying data and is thereby treated as a trusted system by a user or another program? -- Phishing --
+What is a program that seems to be doing one thing but is actually doing another? -- Trojan horse --
+What is a tool used to quickly check computers on a network for known weaknesses? -- Vulnerability scanner --
+NewSection-Easy
+What does the 1xx group of HTTP error codes refer to? -- Informational responses --
+What does the 2xx group of HTTP error codes refer to? -- Success --
+What does the 3xx group of HTTP error codes refer to? -- Redirection --
+What does the 4xx group of HTTP error codes refer to? -- Client errors --
+What does the 5xx group of HTTP error codes refer to? -- Server error --
+NewSection-Easy
+What does the 200 HTTP error refer to? -- OK --
+What does the 400 HTTP error refer to? -- Bad Request --
+What does the 401 HTTP error refer to? -- Unauthorized --
+What does the 403 HTTP error refer to? -- Forbidden --
+What does the 404 HTTP error refer to? -- Not Found --
+What does the 500 HTTP error refer to? -- Internal Server Error --
+What does the 502 HTTP error refer to? -- Bad Gateway --
+NewSection-Easy
+What is the following range of IP address: 10.0.0.0 – 10.255.255.255? -- Class A internal --
+What is the following range of IP address: 172.16.0.0 – 172.31.255.255? -- Class B internal --
+What is the following range of IP address: 192.168.0.0 – 192.168.255.255? -- Class C internal --
+What is the following IP address refer to: 127.0.0.1? -- Localhost --
+Dummy -- Class D internal --
+NewSection-Easy
+In a bus or network which describes best how signals are sent and received on an ideal bus? -- As a chain of high/low voltages. All nodes will receive simultaneously. --
+Dummy -- As electrical pulses received randomly by nodes. --
+Dummy -- As a chain of high/low voltages. All nodes will receive at different times depending on transmition distance. --
+Dummy -- As electrical pulses received simultaneously by nodes. --
+Dummy -- All of these options. --
+NewSection-Easy
+How does a CAN bus deal with collisions? -- Bitwise anding the superimposed packets allow priority to be determined. Then wait for turn to retransmit. --
+How does ethernet deal with collisions? -- Waits for a random time before retransmitting. --
+How does usb deal with collision? -- It doesn't need to as each node is multiplexed with an assigned time slot. 
+Dummy -- It ignores them. --
+Dummy -- None of these options. --

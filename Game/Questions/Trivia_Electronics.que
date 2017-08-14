@@ -1,0 +1,58 @@
+NewSection-Easy
+What is a device that selects one of several analog or digital input signals and forwards the selected input into a single line? -- Multiplexer --
+What is a semiconductor device used to amplify and switch electronic signals and electrical power? -- Transistor --
+What is a discrete component that allows current to flow in one direction only? -- Diode --
+What is an electronic component with an electrical resistance that varies with the applied voltage? -- Varistor --
+What is a resistor connected between a signal conductor and a positive power supply voltage to ensure that the signal will be a valid logic level if external devices are disconnected or high-impedance is introduced? -- Pull up --
+What is a type of electrical circuit where two circuit branches are have a third branch connected between the first two branches at some intermediate point along them? -- Bridge --
+What diode type allows which allows current to flow in the forward direction in the same manner as an ideal diode, but also permits it to flow in the reverse direction when the voltage is above a certain value known as the breakdown voltage? -- Zener --
+What refers to single direction communications (eg computer keyboard)? -- Simplex --
+What refers to only a single direction of communication being allowed at a time (eg walkie-talkie)? -- Half-Duplex --
+What refers to only a both directions of communication being allowed at a time? -- Full-Duplex --
+NewSection-Easy
+What incorporates the functions of a computer's central processing unit (CPU) on a single integrated circuit (IC), or at most a few integrated circuits? -- Microprocessor --
+What is a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals? -- Microcontroller --
+What is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints? -- Embedded system --
+What is an integrated circuit designed to be configured by a customer or a designer after manufacturing? -- Field-programmable gate array -- 
+What is the hardware within a computer that carries out the instructions of a computer program by performing the basic arithmetical, logical, and input/output operations of the system? -- Central processing unit --
+What architecture of an electronic digital computer has subdivisions of a processing unit consisting of an arithmetic logic unit and processor registers, a control unit containing an instruction register and program counter, a memory to store both data and instructions, external mass storage, and input and output mechanisms? -- Von Neumann --
+What architecture of an electronic digital computer has physically separate storage and signal pathways for instructions and data? -- Harvard --
+What is a CPU design strategy based on the insight that simplified (as opposed to complex) instructions can provide higher performance if this simplicity enables much faster execution of each instruction? -- Reduced instruction set computing (RISC) --
+NewSection-Easy
+What reduced instruction set computer (RISC) instruction set architecture (ISA) microprocessors come in the following flavours: R2000, R6000, R4000, R8000? -- Microprocessor without Interlocked Pipeline Stages (MIPS) --
+What microcontroller is a family of modified Harvard architecture microcontrollers made by Microchip Technology? -- Peripheral Interface Controller (PIC) --
+What company invented the FPGA? -- Xilinx --
+Which of these manufacturers a modified Harvard architecture 8-bit RISC based on their AVR design? -- Atmel --
+Which architecture describes a family of RISC-based computer processors first developed in the 1980s by Acorn Computers Ltd to power their desktop machines? -- ARM --
+NewSection-Easy
+What is a measure that compares the level of a desired signal to the level of background noise? -- Signal-to-noise ratio --
+What is twice the bandwidth of a bandlimited function or a bandlimited channel and is a lower bound for the sample rate for alias-free signal sampling? -- Nyquist rate --
+What describes a fundamental bridge between continuous signals (analog domain) and discrete signals (digital domain)? -- Sampling theorem --
+What type of system has an output that depends only on the input at the same time? -- Memory --
+What type of system has an output that does not depend on the values of the input at previous times, only at the current time? -- Memoryless --
+What describes a system where the output does not depend on future values of the input? -- Casual --
+What is an effect that causes different signals to become indistinguishable (or aliases of one another) when sampled? -- Aliasing --
+NewSection-Easy
+Which of these contributes most towards the higher latencies when tranmitting data via mobile phone networks compared to cable? -- Tranmission through air cause errors and hence many resends --
+Dummy -- Further to travel --
+Dummy -- Mobile phones are slower --
+Dummy -- Many send and receive requests are required for each packet of data  --
+Dummy -- Variation in temperature --
+NewSection-Easy
+What allows a heat sink to be attached to a PCB and allow room for thermal expansion? -- Spring mounts --
+What is an electronic device that incorporates either a fan or a peltier device to keep a hot component such as a processor cool? -- Heat sink --
+What mechanically supports and electrically connects electronic components? -- Printed circuit board (PCB) --
+Dummy -- Retaining clips --
+What is widely used prototyping board characterized by a grid of holes, with wide parallel strips of copper cladding? -- Stripboard --
+NewSection-Easy
+In a bipolar transistor, what are the terminals commonly labelled? -- base, collector, and emitter --
+In a field-effect transistor transistor, what are the terminals commonly labelled? -- gate, source, and drain --
+Dummy -- gate, collector, and emitter --
+Dummy -- base, source, and emitter --
+Dummy -- base, collector, and drain --
+NewSection-Easy
+Which of these describe the action of a transmitter as a switch? -- A relatively small flow of electrons sent through the base of the transistor has the ability to exert control over a much larger flow of electrons through the collector. --
+Dummy -- A relatively small flow of electrons sent through the emitter of the transistor has the ability to exert control over a much larger flow of electrons through the collector. --
+Dummy -- A relatively small flow of electrons sent through the base of the transistor has the ability to exert control over a much larger flow of electrons through the base. --
+Which of these describe the action of a transistor as an amplifier? -- A small change in voltage (Vin) changes the small current through the base of the transistor; the transistor's current amplification combined with the properties of the circuit mean that small swings in Vin produce large changes in Vout. --
+Dummy -- A small change in voltage (Vin) changes the small current through the emitter of the transistor; the transistor's current amplification combined with the properties of the circuit mean that small swings in Vin produce large changes in Vout. --

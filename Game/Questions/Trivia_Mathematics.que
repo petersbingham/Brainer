@@ -1,0 +1,208 @@
+NewSection-Easy
+What is the name of a triangle which has three sides of equal length? -- Equilateral --
+What is the name of a triangle which has at least two sides of equal length? -- Isosceles --
+What is the name of a triangle which has three sides of unequal length? -- Scalene --
+What is the name of a triangle that contains no right angles? -- Oblique --
+What is the name of a triangle with all three angles less than 90°? -- Acute --
+What is the name of a triangle with one angle greater than 90°? -- Obtuse --
+What is an angle that is less than 90°? -- Acute --
+What is an angle that is 90° exactly? -- Right --
+What is an angle that is greater than 90° but less than 180°? -- Obtuse --
+What is an angle that is 180° exactly? -- Straight --
+What is an angle that is greater than 180°? -- Reflex --
+What is a plane figure bounded by a closed path or circuit, composed of a finite sequence of straight line segments commonly called? -- Polygon --
+What is a polygon with four sides (or 'edges') and four vertices or corners commonly most generally called? -- Quadrilateral --
+What is a convex quadrilateral with one pair of parallel sides commonly most generally called? -- Trapezoid -- 
+What is a convex quadrilateral with two pairs of parallel sides commonly most generally called? -- Parallelogram -- 
+What is a convex quadrilateral whose four sides all have the same length commonly most generally called? -- Rhombus --  
+What is a rhombus with right angles commonly called? -- Square --
+What is the irrational root of an integer called? -- Surd --
+What is a number or quantity that when multiplied with another produces a given number or expression? -- Factor --
+What is a number to be divided by another number? -- Dividend --
+NewSection-Easy
+A polygon where every internal angle is less than or equal to 180 degrees with each line segment between two vertices remaining inside or on the boundary of the polygon is referred to as being what? -- Convex --
+A polygon which is equiangular is referred to as being what? -- Regular --
+What is a fraction in which the numerator is larger than or equal to the denominator? -- Improper --
+What is the result of division? -- Quotient --
+What type of combinatorics is the lottery? ie having six matching numbers from six selected balls in any order. -- Combination --
+What type of combinatorics is a combination lock? -- Permutation --
+What type of combinatorics is attempting to toss a coin in the following order HHHTH? -- Permutation --
+What type of combinatorics is selecting a team of 5 from 12 people? -- Combination --
+What method is a numerical method for solving differential equations by approximating them with difference equations? -- Finite-Difference --
+What solves a given problem in terms of functions and mathematical operations from a given generally-accepted set? -- Closed form --
+What theorem states, roughly, that given a planar arc between two endpoints, there is at least one point at which the tangent to the arc is parallel to the secant through its endpoints? -- Mean value --
+What theorem essentially states that any real-valued differentiable function that attains equal values at two distinct points must have a stationary point somewhere between them? -- Rolle's theorem --
+NewSection-Easy
+What is to make a marked change in the form, nature, or appearance of? -- Transform --
+What is to change the size or level of something? -- Scale --
+What is to transfer to a different place or context? -- Transpose --
+What is to move or cause to move in a circle round an axis or centre? -- Rotate --
+What is to make biased or distorted in a way that is regarded as inaccurate, unfair, or misleading? -- Skew --
+NewSection-Easy
+Which of these will always have an equal number of points above and below it? -- Median --
+Dummy -- Mean --
+Dummy -- Mode --
+Dummy -- None of these options --
+Dummy -- All of these options --
+NewSection-Easy
+What is an angle less than ninety degrees called? -- Acute --
+What is an angle greater than ninety degrees called? -- Obtuse --
+What are two angles that add up to 180 degress called? -- Supplementary --
+What are two angles that add up to 90 degress called? -- Complementary --
+Dummy -- Angled --
+NewSection-Easy
+What is a polygon with five edges and five vertices called? -- Pentagon --
+What is a polygon with six edges and six vertices called? -- Hexagon --
+What is a polygon with eight edges and eight vertices called? -- Octogon --
+What is a polygon with ten edges and ten vertices called? -- Decagon --
+Dummy -- Heptagon --
+NewSection-Easy
+What is the interior angle of a equilateral triangle? -- 60 --
+What is the interior angle of a square? -- 90 --
+What is the interior angle of a pentagon? -- 108 --
+What is the interior angle of a hexagon? -- 120 --
+What is the interior angle of a octagon? -- 135 --
+NewSection-Easy
+What is the first prime number consisting of 2 consecutive numbers? -- 23 --
+Dummy -- 11 --
+Dummy -- 13 --
+Dummy -- 27 --
+Dummy -- 19 --
+For a normal distribution what percent of the data are approx one SD from the mean? -- 68 --
+NewSection-Easy
+How many points to fully define a point on a plane? -- 1 --
+How many points to fully define a line on a plane? -- 2 --
+How many points to fully define an equilateral triangle on a plane? -- 2 + order --
+How many points to fully define an square on a plane? -- 2 --
+How many points to fully define an circle on a plane? -- 2 --
+Dummy -- 3 --
+Dummy -- 4 --
+NewSection-Easy
+A right angle triangle has a hypotenuse (base) equal to 10 and an altitude (height) to the hypotenuse equal to 6. Find the area of the triangle. -- None of these options -- impossible triangle. Max altitude is 5 (ie radius of drawn in a sphere) $$
+Dummy -- 30 --
+Dummy -- 60 --
+Dummy -- 15 --
+Dummy -- 120 --
+NewSection-Easy
+Which of these describes the equation of a circle centered at (a,b) and of radius r? -- (x-a)^2+(y-b)^2=r^2 --
+Dummy -- (x-a)^2+(y-b)^2=r --
+Dummy -- (x-a)+(y+b)=r --
+Dummy -- (x+a)^2+(y+b)^2=r^2 --
+Dummy -- (x+a)^2+(y+b)^2=r --
+NewSection-Easy
+Which of these gives the sum of an arithmetic sequence? (n: number of terms, a: value of mth term) -- n/2(a_1+a_n) --
+Dummy -- n(a_1*a_n) --
+Dummy -- n/2(a_1*a_n) --
+Which of these gives the sum of an convergant geometric sequence? (a: scale factor, r: common ratio) -- a/(1-r) --
+Dummy -- a/(r-1) --
+Dummy -- a/(1+r) --
+Which of these describes the number of k-combinations from a given set S of n elements? -- n!/(k!(n-k)!) --
+Dummy -- k!/(n!(k-n)!) --
+Dummy -- 2n!/(k!(n-k)!) --
+Dummy -- n!/(2k!(n-k)!) --
+Dummy -- k!/(n!(n-k)!) --
+NewSection-Easy
+Which of these describes standard deviation of a group of data x? -- sqrt(sum(x-mean(x))^2)/(n-1)) --
+Dummy -- (sum(x-mean(x))^2)/(n-1))^2 --
+Dummy -- sqrt(sum(mean(x)-x)^2)/(n-1)) --
+Dummy -- sum(sqrt(mean(x)-x))^2/(n-1) --
+Dummy -- sum(sqrt(mean(x)-x))/(n-1) --
+NewSection-Easy
+x/2.5 = -- x*4/10 --
+x/3.5 = -- x*2/7 --
+Dummy -- x*10/4 --
+Dummy -- x*7/2 --
+Dummy -- x*5/2 --
+NewSection-Easy
+What is a standard approach in regression analysis to the approximate solution of overdetermined systems, i.e., sets of equations in which there are more equations than unknowns? -- Least Squares --
+What is a statistical process for estimating the relationships among variables? -- Regression analysis --
+What a is a numeric function that is piecewise-defined by polynomial functions, and which possesses a sufficiently high degree of smoothness at the places where the polynomial pieces connect (which are known as knots)? -- Spline --
+What is important in statistics and often used in the natural and social sciences to represent real-valued random variables whose distributions are not known? -- Normal (or Gaussian) distribution --
+What is a measure that is used to quantify the amount of variation or dispersion of a set of data values? -- Standard Deviation --
+What technique for solving DEs is based on the approximation of a nearby point on a curve by moving a short distance along a line tangent to the curve? -- Euler Method --
+What are a family of implicit and explicit iterative methods, which includes the well-known routine called the Euler Method for solving ODEs? -- Runge–Kutta methods --
+NewSection-Easy
+What is the integral of x^2 ? -- x^3 / 3 + C --
+What is the integral of a constant a ? -- ax + C --
+What is the integral of  cos(ax+b) ? -- sin(ax+b)/a + C --
+What is the integral of  sin(ax+b)? -- -cos(ax+b)/a + C --
+What is the integral of  1/(ax+b) ? -- ln|ax+b|/a + C --
+NewSection-Easy
+What describes the best way to integrate: xe^x ? -- By parts -- 
+What describes the best way to integrate: (2x+3)^4 ? -- By substitution -- 
+What describes the best way to integrate: 1/(1-x^2)^(1/2) or 1/(1+x^2) ? -- From differentials of trig functions -- 
+What describes the best way to integrate: cos^4(x) ? -- Double angle formulae -- 
+What describes the best way to integrate: 6/((x-1)(x+1)) ? -- Partial fractions  -- 
+NewSection-Easy
+log(ab) = -- log(a)+log(b) --
+log(a/b) = -- log(a)-log(b) --
+log(a^b) = -- blog(a) --
+log_x(1/x^a) = -- -a --
+log_x(1) = -- 0 --
+NewSection-Easy
+What's wrong with this statement: "If most of the men were taller than average then the average would be greater"? -- It describes the median, not the average --
+Dummy -- Nothing --
+Dummy -- Heights cannot be averaged --
+Dummy -- The average would be smaller --
+Dummy -- It describes the mode, not the average --
+NewSection-Easy
+What is y=x^(-3) at x=0? -- Infinity --
+What is y=x^(1/2) at x=0? -- Zero --
+What is y=x^(1/2) at x=-1? -- Imaginary --
+What is y=x^(1/2) at x=1? -- Unity --
+Dummy -- Minus Infinity --
+NewSection-Easy
+Which of these describes the sum of interior angles of an n sided polygon? -- (n-2) × 180° --
+Dummy -- (n-2) × 360° --
+Dummy -- (n-2) × 90° --
+Dummy -- (n-3) × 180° --
+Dummy -- (n-4) × 90° --
+NewSection-Easy
+For a number of sets, what (denoted U) refers to the elements that are in at least one of the sets? -- Union --
+For a number of sets, what (denoted inverted U) refers to the elements that are in all of the sets? -- Intersection --
+What (denoted super c) refers to the elements that are not in a set? -- Complement (Absolute) --
+What (denoted \) refers to the elements in a first set but not in a second? -- Complement (Relative) --
+What describes when A is "contained" inside B, that is, all elements of A are also elements of B. -- A is a subset --
+NewSection-Easy
+What is the sum of: 1/2 + 1/4 + 1/8 + 1/16 + ...? -- 1 --
+What is the sum of: 1/4 + 1/16 + 1/64 + 1/256 + ...? -- 1/3 --
+What is the sum of: 1 + 1/3 + 1/9 + 1/27 + ...? -- 3/2 --
+Dummy -- 2/3 --
+Dummy -- 2 --
+Dummy -- 5/2 --
+NewSection-Easy
+A glass, shaped like an inverted cone with the bottom cut off, is filled by a dropping tap. Was does the rate of change of height with time do? -- Decrease --
+Dummy -- Increase --
+Dummy -- Stay the same --
+Dummy -- None of these --
+Dummy -- All of these --
+NewSection-Easy
+i^1= -- i --
+i^2= -- -1 --
+i^3= -- -i --
+i^4= -- 1 --
+i^5= -- i --
+i^-1= -- -i --
+i^-1= -- 0 --
+NewSection-Easy
+(a+bi)+(c+di)= -- (a+c) + (b+d)i --
+(a+bi)-(c+di)= -- (a-c) + (b-d)i --
+(a+bi)(c+di)= -- (ac-bd) + (ad+bc)i --
+(a+bi)(a-bi)= -- a^2 + b^2 --
+(a+bi)/(c+di)= -- (ac+bd)/(c^2+d^2) + (bc-ad)/(c^2+d^2)i --
+NewSection-Easy
+Solutions of x^2=4? -- 2,-2 --
+Solutinos of x^3=1? -- 1.-1/2+isqrt(3)/2,-1/2-isqrt(3)/2 --
+Dummy -- 2,-2i --
+Dummy -- 2 --
+Dummy -- -2 --
+NewSection-Easy
+There were some people on a train. 19 get off at the first stop and 17 people get on. There are now 63 people in the train. How many people were on the train to begin with? -- 65 --
+Dummy -- 60 --
+Dummy -- 61 --
+Dummy -- 62 --
+Dummy -- 63 --
+Dummy -- 64 --
+Dummy -- 66 --
+Dummy -- 67 --
+Dummy -- 68 --

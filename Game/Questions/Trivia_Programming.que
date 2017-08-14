@@ -1,0 +1,186 @@
+NewSection-Easy
+How many bits required to hold the following hexadecimal number: FFFFFFFFFFFFFFFF? -- 64 --
+How many bits required to hold the following hexadecimal number: FFFFFFFF? -- 32 --
+How many bits required to hold the following hexadecimal number: FFFF? -- 16 --
+How many bits required to hold the following hexadecimal number: FF? -- 8 --
+How many bits required to hold the following hexadecimal number: F? -- 4 --
+How many bits required to hold the following decimal number: 18446744073709551615? -- 64 --
+How many bits required to hold the following decimal number: 4294967295? -- 32 --
+How many bits required to hold the following decimal number: 65535? -- 16 --
+How many bits required to hold the following decimal number: 255? -- 8 --
+How many bits required to hold the following decimal number: 15? -- 4 --
+NewSection-Easy
+How many bytes required to hold the following hexadecimal number: FFFFFFFFFFFFFFFF? -- 8 --
+How many bytes required to hold the following hexadecimal number: FFFFFFFF? -- 4 --
+How many bytes required to hold the following hexadecimal number: FFFF? -- 2 --
+How many bytes required to hold the following hexadecimal number: FF? -- 1 --
+How many bytes required to hold the following hexadecimal number: F? -- 1/2 --
+How many bytes required to hold the following decimal number: 18446744073709551615? -- 8 --
+How many bytes required to hold the following decimal number: 4294967295? -- 4 --
+How many bytes required to hold the following decimal number: 65535? -- 2 --
+How many bytes required to hold the following decimal number: 255? -- 1 --
+How many bytes required to hold the following decimal number: 15? -- 1/2 --
+NewSection-Easy
+What is i | ( i>>1 ) for i=0? -- 0 --
+What is i | ( i>>1 ) for i=1? -- 1 --
+What is i | ( i>>1 ) for i=2? -- 3 --
+What is i | ( i>>1 ) for i=3? -- 3 --
+What is i | ( i>>1 ) for i=4? -- 6 --
+Dummy -- 2 --
+Dummy -- 4 --
+Dummy -- 5 --
+Dummy -- 7 --
+Dummy -- 8 --
+NewSection-Easy
+What is decimal 255 in hex? -- FF --
+What is decimal 255 in binary? -- 1111 1111 --
+What is decimal 256 in hex? -- 100 --
+What is decimal 256 in binary? -- 1 0000 0000 --
+What is decimal 18 in hex? -- 12 --
+What is hex 18 in decimal? -- 24 --
+NewSection-Easy
+What is a particular instance of a class where the object can be a combination of variables, functions, and data structures? -- Object --
+What is an extensible template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions, methods)? -- Class --
+What is a function or method whose behavior can be overridden within an inheriting class by a function with the same signature? -- Virtual --
+What is an abstract type that contains no data, but exposes behaviors defined as methods? -- Interface --
+What is a kind of association where the composite object has sole responsibility for the disposition of the component parts? -- Composition --
+What descibes a relationship with a component which is a weak “has a” relationship, as the component may survive the aggregate object? -- Aggregate --
+What is an object whose state cannot be modified after it is created? -- Immutable --
+What is an instruction, programming language statement, or computer protocol command that does nothing? -- Noop --
+What a way to fire off custom scripts when certain important actions occur? -- Hooks --
+NewSection-Easy
+What is a binary signed number representation defined as the result of subtracting the number from 2^N? -- Two's complement --
+What is a binary signed number representation defined as the value obtained by inverting all the bits in the binary representation of the number? -- Ones' complement --
+What binary signed number representation represents a number's sign by allocating one sign bit to represent the sign? -- Signed magnitude --
+Dummy -- Inverse sign --
+Dummy -- Negative complement --
+NewSection-Easy
+What is a programming paradigm that describes computation in terms of statements that change a program state? -- Imperative --
+What is a programming paradigm that expresses the logic of a computation without describing its control flow? -- Declarative --
+What is a programming paradigm that is based upon the concept of the procedure call? -- Procedural --
+What is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data? -- Functional --
+What is a programming paradigm that represents concepts as "objects" that have data fields and associated procedures known as methods? -- Object-oriented --
+What described when the most significant value in the sequence is stored at the lowest storage address? -- Big-endian --
+What described when the most significant value in the sequence is stored at the highest storage address? -- Little-endian --
+What is a function definition that is not bound to an identifier (anonymous function)? -- Lambda -- 
+What is a classification that determines the possible values; the operations that can be done on the values; the meaning of the data; and the way that the values can be stored? -- Type --
+Why is the minus sign not usually allowed for naming variables in most programming languages? -- Subtraction operator --
+What refers to fixed values that the program may not alter during its execution? -- Literal --
+What is the ambiguity called that arises when two classes B and C inherit from A, and class D inherits from both B and C? -- Diamond problem --
+What states that an entity can allow its behaviour to be extended without modifying its source code? -- open/closed principle (open for extension, but closed for modification) --
+What tells the compiler which type of value you want to print or rea? -- Format specifier --
+NewSection-Easy
+What is a problem designed to illustrate the challenges of avoiding deadlock? -- Dining philosophers --
+What problem describes two processes, the producer and the consumer, who share a common, fixed-size buffer used as a queue? -- Producer–consumer problem --
+What is a special condition that may occur inside a critical section where the sequence of execution for the threads makes a difference in the result of the concurrent execution? -- Race condition --
+What is a variable or abstract data type that is used for controlling access, by multiple processes, to a common resource in a concurrent system such as a multiprogramming operating system? -- Semaphore --
+What is a program object that allows multiple program threads to share the same resource, such as file access, but not simultaneously? -- Mutex --
+What in C++ (as opposed to C) allows coding for protection against things like buffer overflows? -- Classes --
+What is (function(){ /*...*/ })() ? -- An anonymous FunctionExpression that is called immediately after creation. --
+What is a cellular automaton devised by the British mathematician John Horton Conway in 1970? -- Game of Life --
+All recursion can be converted into ... -- Iteration --
+In logic, what term denotes the process of applying the logical function to all possible combinations of inputs and outputs and constructing a resultant matrix? -- Truth-table --
+NewSection-Medium
+What is i | ( i>>1 ) for i=5? -- 7 --
+What is i | ( i>>1 ) for i=6? -- 7 --
+What is i | ( i>>1 ) for i=7? -- 7 --
+What is i | ( i>>1 ) for i=8? -- 12 --
+What is i | ( i>>1 ) for i=9? -- 13 --
+Dummy -- 8 --
+Dummy -- 9 --
+Dummy -- 10 --
+Dummy -- 11 --
+Dummy -- 14 --
+Dummy -- 15 --
+NewSection-Easy
+What is the ~ operator in C? -- bitwise NOT --
+What is the ^ operator in C? -- bitwise XOR --
+What is the | operator in C? -- bitwise OR --
+What is the & operator in C? -- bitwise AND --
+What is the << operator in C? -- left shift --
+What is the >> operator in C? -- right shift --
+NewSection-Easy
+Who invented C? -- Dennis Ritchie --
+Who invented C++? -- Bjarne Stroustrup --
+Who invented Unix? -- Ken Thompson and others --
+Who invented Linux? -- Linus Torvalds --
+Who invented Python? -- Guido van Rossum --
+NewSection-Easy
+What provides a unique number for every character, no matter what the platform, no matter what the program, no matter what the language? -- Unicode --
+What is a character encoding capable of encoding all possible characters, or code points, defined by Unicode. The encoding is variable-length and uses 8-bit code units? -- utf-8 --
+What is a character encoding capable of encoding all 1,112,064 possible characters in Unicode. The encoding is variable-length, as code points are encoded with one or two 16-bit code units? -- utf-16 --
+For the utf what is used if a character encoding lies outside the unit length? -- Leading and Continuation Sequences --
+If we know the encoding of a buffer how do we convert to Unicode? -- Decode with Codec --
+If we have a Unicode string how do we convert to its know representation? -- Encode with Codec --
+NewSection-Easy
+What matches will \b(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\b return with 123.234.245.256? -- 123, 234, 245, 256 --
+What matches will \b(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\b return with 123.234.245.256? -- 123.234.245.256 --
+Dummy -- 123 --
+Dummy -- 234 --
+Dummy -- 245 --
+NewSection-Easy
+What is an algorithm for reducing the number of points in a curve that is approximated by a series of points? -- Ramer–Douglas–Peucker --
+What is a search algorithm that finds the position of a target value within a sorted array? -- Binary --
+What algorithm is a means of improving the efficiency of TCP/IP networks by reducing the number of packets that need to be sent over the network? -- Nagle's algorithm --
+What is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order? -- Bubble --
+What is an algorithm for finding approximate solutions to the travelling salesman problem? -- Christofides --
+NewSection-Easy
+What is the complexity of expanding a determinant using Laplace expansion wrt size n? -- O(n!) --
+What is the complexity of expanding a determinant using LU decomposition expansion wrt size n? -- O(n^2) --
+What is the complexity of inserting or removing an item in a C++ vector? -- O(n) --
+What is the complexity of accessing an item in a C++ vector? -- O(1) --
+What is the complexity of inserting or removing an item in a C++ list? -- O(1) --
+What is the complexity of accessing an item in a C++ list? -- O(n) --
+What is the complexity of number of communication channels between n nodes? -- O(n^2-n) --
+Segmenting a data set into n sets and applying an algorithm to each set results in what complexity? -- O(n) --
+Dummy -- O(log(n)) --
+NewSection-Easy
+Which of these language does not have a do while loop? -- Python --
+Dummy -- C++ --
+Dummy -- C --
+Dummy -- Java --
+Dummy -- Javascript --
+NewSection-Easy
+What provides an interface for creating families of related or dependent objects without specifying their concrete classes? -- Abstract factory --
+What defines an interface for creating a single object, but lets subclasses decide which class to instantiate (ie. lets a class defer instantiation to subclasses)? -- Factory method --
+What ensures a class has only one instance, and provides a global point of access to it? -- Singleton --
+What ensures that resources are properly released by tying them to the lifespan of suitable objects? -- Resource acquisition is initialization --
+What converts the interface of a class into another interface clients expect? -- Adapter or Wrapper or Translator --
+What attachs additional responsibilities to an object dynamically keeping the same interface and provides a flexible alternative to subclassing for extending functionality? -- Decorator --
+What provides a unified interface to a set of interfaces in a subsystem by defining a higher-level interface that makes the subsystem easier to use? -- Facade --
+What provides a surrogate or placeholder for another object to control access to it? -- Proxy --
+What avoids coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chains the receiving objects and passes the request along the chain until an object handles it? -- Chain of responsibility --
+What encapsulates a request as an object, thereby allowing for the parameterization of clients with different requests, and the queuing or logging of requests? -- Command --
+What provides an asynchronous interface to resources that must be handled synchronously? -- Reactor --
+What is an architectural style used for web development? -- Representational State Transfer (REST) --
+What are the four basic functions of persistent storage? -- Create, Read, Update and Delete (CRUD) --
+What is a process in which the credentials provided are compared to those on file in a database of authorized users' information on a local operating system or within an authentication server? -- Authentication --
+What is the function of specifying access rights to resources related to information security and computer security in general and to access control in particular? -- Authorization --
+What refers to an unspecified value or a trap representation? -- Indeterminate value --
+What is the result of executing computer code that does not have a prescribed behavior by the language specification? -- Undefined behavior --
+What allows you to create an application that maintains multiple forms within a single container form? -- Multiple-document interface (MDI) --
+To notify that a process has started write output to ...? -- stdout --
+NewSection-Easy
+What is the difference between a program and an algorithm? -- A program is an implementation of an algorithm --
+Dummy -- There is no difference --
+Dummy -- A program is a collection of algorithms --
+Dummy -- None of these options --
+Dummy -- All of these options --
+NewSection-Easy
+What is the efficiency loss when transmitting an ASCII string using bytes? -- 1/8 --
+Dummy -- 1/2 --
+Dummy -- 1/16 --
+Dummy -- 1/4 --
+Dummy -- 1 --
+NewSection-Easy
+Which of these statements is most correct? -- Headers increase compilation time since they have to be individually preprocessed and recompiled each time they are included. Pre-compiled headers can speed this up significantly. --
+Dummy -- Headers decrease compilation time since they move code code away from the cpp files so they only need to be compiled once. --
+Dummy -- Headers increase compilation time since they have to be recompiled each time they are included. Pre-compiled headers can speed this up significantly. --
+Dummy -- None of these options. --
+Dummy -- All of these options. --
+NewSection-Easy
+What is the 1st term in a popular mnemonic acronym for five SW design principles? -- Single responsibility principle --
+What is the 2nd term in a popular mnemonic acronym for five SW design principles? -- Open/closed principle --
+What is the 3rd term in a popular mnemonic acronym for five SW design principles? -- Liskov substitution principle --
+What is the 4th term in a popular mnemonic acronym for five SW design principles? -- Interface segregation principle --
+What is the 5th term in a popular mnemonic acronym for five SW design principles? -- Dependency inversion principle --
