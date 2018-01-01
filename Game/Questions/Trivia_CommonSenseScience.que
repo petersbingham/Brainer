@@ -82,3 +82,45 @@ Dummy -- Engine force is greater than force of gravity. --
 Dummy -- Engine stalls. --
 Dummy -- Throttle released. --
 Dummy -- None of these options. --
+NewSection-Easy
+Best reason for tread wearing much faster on front two tyres of a car? -- Mass of engine means greater mass on the front two tyres. Also front wheel drive. --
+Dummy -- Mass of engine means greater mass on the front two tyres. --
+Dummy -- Front wheel drive. --
+Dummy -- Cheaper tyres. --
+Dummy -- None of these options. --
+NewSection-Easy
+Which is has the greatest longitudinal bending resistance and why: a solid cyclinder or hollow cyclinder, both uniform and equal in length? -- Hollow. Greater moment of inertia. --
+Dummy -- Hollow. Smaller moment of inertia. --
+Dummy -- Solid. Greater moment of inertia. --
+Dummy -- Solid. Smaller moment of inertia. --
+Dummy -- Both the same. --
+NewSection-Easy
+Is there any significant advantage in painting radiators black, since back is a better emitter of IR? -- No, since a radiator mainly heats by conduction and the paint acts as insulator. --
+Dummy -- No, since black also absorbs an equal amount of IR. --
+Dummy -- Yes, since radiators mainly radiatively. --
+Dummy -- Yes and the paint also acts as a heat sink. --
+Dummy -- None of these options. --
+NewSection-Easy
+Hand holding a solid glass shere. The hand is below the sphere. Where is the image of the hand observed? -- At the top of the sphere. --
+Dummy -- At the bottom of the sphere. --
+Dummy -- To the right of the sphere. --
+Dummy -- To the left of the sphere. --
+Dummy -- None of these options. --
+NewSection-Easy
+For a given speed, incline and wind resistance a cyclist exerts the same power so matter what the gear. This assumes? -- Constant mechanical efficiency and no acceleration. --
+Dummy -- Cyclist is accelerating. --
+Dummy -- The mechanical efficiency is a variant. --
+Dummy -- Nothing. --
+Dummy -- Constant friction. --
+NewSection-Easy
+Young's double slit experiment in garden with a box with two cut slits and a torch. Most likely reasons for failure? -- Light source not monochromatic and point like. Slits too wide and far apart. --
+Dummy -- Light source monochromatic and not point like. Slits too wide and far apart. --
+Dummy -- Light source not monochromatic and point like. Slits too narrow and far apart. --
+Dummy -- Light source not monochromatic and point like. Slits too wide and close together. --
+Dummy -- Light source monochromatic and not point like. Slits too close together. --
+NewSection-Easy
+Why do black holes not suck up the entire galaxy? -- Angular momentum --
+Dummy -- Energy --
+Dummy -- Entropy --
+Dummy -- Enthalpy --
+Dummy -- Momentum --

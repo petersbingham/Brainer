@@ -33,8 +33,11 @@ What is a hostname that means this computer or this host that may be used to acc
 What is a form of Windows computer network in which all user accounts, computers, printers and other security principals, are registered with a central database located on one or more clusters of central computers known as controllers? -- Domain --
 What is a transport layer protocol defined for use with the IP network layer protocol that does not guarantee delivery? -- UDP (User Datagram Protocol) --
 What is one of the main protocols in TCP/IP networks which enables a connection to be established, guarantees delivery and that packets will be delivered in the same order in which they were sent? -- TCP (Transmission Control Protocol) --
+What is a communications protocol used for discovering the link layer address associated with a given IPv4 address? -- ARP (Address Resolution Protocol) --
 What name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet? -- Domain --
-What is a piece of data that is used in network communications (often over HTTP) to identify a session, often expiring after a set period of time? Token
+What is a piece of data that is used in network communications (often over HTTP) to identify a session, often expiring after a set period of time? -- Token --
+What is a network management protocol used on TCP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks? -- DHCP (Dynamic Host Configuration Protocol) --
+What is a set of communications protocols used between components in process automation systems? -- DNP3 (Distributed Network Protocol) --
 NewSection-Easy
 What is the domain name in the url: stuff.blog.domainsherpa.com? -- domainsherpa --
 Dummy -- blog --
@@ -280,7 +283,7 @@ What application protocol is for distributed, collaborative, hypermedia informat
 What application-layer Internet standard protocol is used by local e-mail clients to retrieve e-mail from a remote server over a TCP/IP connection and uses port 110? -- POP3 (Post Office Protocol) --
 What Internet standard protocol is used by e-mail clients to retrieve e-mail messages from a mail server over a TCP/IP connection and uses port 143? -- IMAP (Internet Message Access Protocol) --
 What protocol is for secure communication over a computer network which is widely used on the Internet and uses port 443? -- HTTPS (HTTP Secure) --
-What protocol was developed by Microsoft to providea a user with a graphical interface to connect to another computer over a network connection and uses port 3389? -- RDP (Remote Desktop Protocol) --
+What protocol was developed by Microsoft to provide a user with a graphical interface to connect to another computer over a network connection and uses port 3389? -- RDP (Remote Desktop Protocol) --
 NewSection-Easy
 What is a method to wipe data from a HD? -- Magnet -- 
 What is a technique of using a modem to automatically scan through a list of telephone numbers? -- War dial --
@@ -320,3 +323,26 @@ How does ethernet deal with collisions? -- Waits for a random time before retran
 How does usb deal with collision? -- It doesn't need to as each node is multiplexed with an assigned time slot. 
 Dummy -- It ignores them. --
 Dummy -- None of these options. --
+NewSection-Easy
+What is a single-wire (one conductor) electrical connector used for joining wires to equipment, usually 4mm diameter? -- Bananna plug --
+What is a type of electrical connector where a wire is held by the tightening of a screw? -- Screw terminal --
+Dummy -- Block plug --
+Dummy -- Block terminal --
+Dummy -- Terminal block --
+NewSection-Easy
+Which metric prefix describes 10^18 ? -- exa --
+Which metric prefix describes 10^15 ? -- peta --
+Which metric prefix describes 10^12 ? -- tera --
+Which metric prefix describes 10^9 ? -- giga --
+Which metric prefix describes 10^6 ? -- mega --
+Which metric prefix describes 10^3 ? -- kilo --
+Which metric prefix describes 10^2 ? -- hecto --
+Which metric prefix describes 10^1 ? -- deca --
+Which metric prefix describes 10^-1 ? -- deci --
+Which metric prefix describes 10^-2 ? -- centi --
+Which metric prefix describes 10^-3 ? -- milli --
+Which metric prefix describes 10^-6 ? -- micro --
+Which metric prefix describes 10^-9 ? -- nano --
+Which metric prefix describes 10^-12 ? -- pico --
+Which metric prefix describes 10^-15 ? -- femto --
+Which metric prefix describes 10^-18 ? -- atto --

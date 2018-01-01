@@ -19,6 +19,10 @@ What is a rhombus with right angles commonly called? -- Square --
 What is the irrational root of an integer called? -- Surd --
 What is a number or quantity that when multiplied with another produces a given number or expression? -- Factor --
 What is a number to be divided by another number? -- Dividend --
+What is a divisor of a positive integer x, that is not equal to x? -- Proper divisor -- 
+What is a positive integer that is equal to the sum of its proper divisors? -- Perfect number --
+What is the property when the ratio of two quantities is the same as the ratio of their sum to the larger of the two quantities? -- Golden ratio -- 
+What is a 3d ellipse called? -- Ellipsoid --
 NewSection-Easy
 A polygon where every internal angle is less than or equal to 180 degrees with each line segment between two vertices remaining inside or on the boundary of the polygon is referred to as being what? -- Convex --
 A polygon which is equiangular is referred to as being what? -- Regular --
@@ -70,6 +74,7 @@ Dummy -- 27 --
 Dummy -- 19 --
 For a normal distribution what percent of the data are approx one SD from the mean? -- 68 --
 NewSection-Easy
+What is log 1 (base 10)? -- 0 --
 How many points to fully define a point on a plane? -- 1 --
 How many points to fully define a line on a plane? -- 2 --
 How many points to fully define an equilateral triangle on a plane? -- 2 + order --
@@ -101,6 +106,9 @@ Dummy -- k!/(n!(k-n)!) --
 Dummy -- 2n!/(k!(n-k)!) --
 Dummy -- n!/(2k!(n-k)!) --
 Dummy -- k!/(n!(n-k)!) --
+Which of these gives the nth term of a geometric sequence? (a: scale factor, r: common ratio) -- ar^(n-1) --
+Dummy -- ar^(n) --
+Dummy -- ra^(n-1) --
 NewSection-Easy
 Which of these describes standard deviation of a group of data x? -- sqrt(sum(x-mean(x))^2)/(n-1)) --
 Dummy -- (sum(x-mean(x))^2)/(n-1))^2 --
@@ -114,6 +122,12 @@ Dummy -- x*10/4 --
 Dummy -- x*7/2 --
 Dummy -- x*5/2 --
 NewSection-Easy
+What are 3/8 in percent (to 1 dp)? -- 37.5% --
+What are 5/8 in percent (to 1 dp)? -- 62.5% --
+What are 3/7 in percent (to 1 dp)? -- 42.6% --
+What are 5/7 in percent (to 1 dp)? -- 71.4% --
+What are 2/6 in percent (to 1 dp)? -- 33.3% --
+NewSection-Easy
 What is a standard approach in regression analysis to the approximate solution of overdetermined systems, i.e., sets of equations in which there are more equations than unknowns? -- Least Squares --
 What is a statistical process for estimating the relationships among variables? -- Regression analysis --
 What a is a numeric function that is piecewise-defined by polynomial functions, and which possesses a sufficiently high degree of smoothness at the places where the polynomial pieces connect (which are known as knots)? -- Spline --
@@ -121,6 +135,7 @@ What is important in statistics and often used in the natural and social science
 What is a measure that is used to quantify the amount of variation or dispersion of a set of data values? -- Standard Deviation --
 What technique for solving DEs is based on the approximation of a nearby point on a curve by moving a short distance along a line tangent to the curve? -- Euler Method --
 What are a family of implicit and explicit iterative methods, which includes the well-known routine called the Euler Method for solving ODEs? -- Runge–Kutta methods --
+What is the radius of the largest disk in which the series converges? -- Radius of convergence --
 NewSection-Easy
 What is the integral of x^2 ? -- x^3 / 3 + C --
 What is the integral of a constant a ? -- ax + C --
@@ -206,3 +221,19 @@ Dummy -- 64 --
 Dummy -- 66 --
 Dummy -- 67 --
 Dummy -- 68 --
+NewSection-Easy
+Started with £50 and ended with £300. What is the percentage change? -- 500% --
+Started with £50 and ended with £3000. What is the percentage change? -- 5000% --
+Started with £50 and ended with £52.5. What is the percentage change? -- 5% --
+Started with £50 and ended with £75. What is the percentage change? -- 50% --
+Dummy -- 0.5% --
+NewSection-Easy
+How many characters are required to fully represent a base 2 number system? -- 2 --
+How many characters are required to fully represent a base 3 number system? -- 3 --
+How many characters are required to fully represent a base 4 number system? -- 4 --
+How many characters are required to fully represent a base 9 number system? -- 9 --
+How many characters are required to fully represent a base 10 number system? -- 10 --
+How many characters are required to fully represent a base 11 number system? -- 11 --
+How many characters are required to fully represent a base 127 number system? -- 127 --
+How many characters are required to fully represent a base 128 number system? -- 128 --
+How many characters are required to fully represent a base 129 number system? -- 129 --

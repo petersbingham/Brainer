@@ -160,6 +160,7 @@ What refers to an unspecified value or a trap representation? -- Indeterminate v
 What is the result of executing computer code that does not have a prescribed behavior by the language specification? -- Undefined behavior --
 What allows you to create an application that maintains multiple forms within a single container form? -- Multiple-document interface (MDI) --
 To notify that a process has started write output to ...? -- stdout --
+What are FLOPS? -- Floating point operations per second --
 NewSection-Easy
 What is the difference between a program and an algorithm? -- A program is an implementation of an algorithm --
 Dummy -- There is no difference --
