@@ -1,0 +1,26 @@
+NewSection-Easy
+In PWA what functions are used to expand the wavefunction in the intermediate region? -- Both Riccati-Bessel and Riccati-Nuemann --
+Dummy -- Riccati-Nuemann only --
+Dummy -- Riccati-Bessel only --
+Dummy -- Legrendre --
+Dummy -- Hermite --
+NewSection-Easy
+What functions are solutions to the harmonic well potential? -- Hermite --
+What functions are solutions to the polar angle differential equation for a spherically symmetric potential? -- Legendre --
+What functions are solutions to the polar and azimuthal angle differential equations for a spherically symmetric potential? -- Spherical Harmonics --
+What is a linear combination of Bessel and Nuemann functions that describes a scattered particle in the asymptotic region? -- Spherical Hankel --
+What is a variant of the Bessel function? -- Spherical-Bessel --
+What is a variant of the Spherical-Bessel function? -- Riccati-Bessel --
+Which functions determine the l and m atomic orbital quantum numbers? -- Spherical Harmonics --
+NewSection-Easy
+Why is there no n=0 quantum energy state? -- Would correspond to zero energy. --
+Dummy -- There is --
+Dummy -- Would correspond to infinite energy. --
+Dummy -- All of these options. --
+Dummy -- None of these options. --
+NewSection-Easy
+For a harmonic oscillator, the probability distribution tends to the classical as what? -- Quantum number n increases. --
+Dummy -- Quantum number n decreases. --
+Dummy -- Energy decreases. --
+Dummy -- Mass decreases. --
+Dummy -- None of these options. --

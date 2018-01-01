@@ -140,3 +140,73 @@ Dummy -- Yes --
 Dummy -- No --
 Dummy -- Possibly --
 Dummy -- Maybe --
+NewSection-Easy
+What can be deduced from: Three friends, each either a liar or truth teller. One says "If I'm the truth teller the other two are liars"? -- He's the truth teller, the other two are liars -- If a liar states this it's a contradiction, since it wont be a lie $$
+Dummy -- Nothing --
+Dummy -- All three cannot be telling the truth --
+Dummy -- All three are liars --
+Dummy -- All three are telling the truth --
+NewSection-Easy
+Best answer: "I know you know nothing and you even pretend that you don't. Am I right?" -- Assuming that each statement refers to the same thing, then it's a contradiction, so cannot be right. --
+Dummy -- Yes --
+Dummy -- No --
+Dummy -- Possibly --
+Dummy -- Maybe --
+NewSection-Easy
+A polygon field with n sides and m posts distributed evenly end-to-end along each side. What expression gives total number of posts? -- (m-1) x n --
+Dummy -- (n-1) x m --
+Dummy -- (m-1) x n --
+Dummy -- n^2 --
+Dummy -- m^2 --
+Dummy -- (m-1) x (n-1) --
+NewSection-Easy
+What is the four-digit number in which the first digit is one-fifth the last, and the second and third digits are the last digit multiplied by 3? -- 1155 --
+Dummy -- 1335 --
+Dummy -- 1515 --
+Dummy -- 1155 --
+Dummy -- 5151 --
+NewSection-Easy
+Jane went to visit Jill. Jill is Jane's only husband's mother-in-law's only husband's only daughter's only daughter. What relation is Jill to Jane? -- Daughter -- Jane's mother's husband is Jane's father, his daughter is Jane, and Jill is her daughter $$
+Dummy -- Mother --
+Dummy -- Aunt --
+Dummy -- Cousin --
+Dummy -- Neice --
+NewSection-Easy
+Which of the words below is least like the others? The difference has nothing to do with vowels, consonants or syllables. MORE, PAIRS, ETCHERS, ZIPPER -- ZIPPER -- The others can be anagrammed into the names of cities: Rome, Paris, Chester $$
+Dummy -- MORE --
+Dummy -- PAIRS --
+Dummy -- ETCHERS --
+Dummy -- All the same --
+NewSection-Easy
+Tabitha likes cookies but not cake. She likes mutton but not lamb, and she likes okra but not squash. Following the same rule, will she like cherries or pears? -- Cherries -- Tabitha only likes food with two syllables $$
+Dummy -- Pears --
+Dummy -- Pears and Cherries --
+Dummy -- Neither --
+Dummy -- Both --
+NewSection-Easy
+What is the number that is one more than one-tenth of one-fifth of one-half of 4,000? -- 41 --
+Dummy -- 40 --
+Dummy -- 42 --
+Dummy -- 50 --
+Dummy -- 51 --
+NewSection-Easy
+In a foot race, Jerry was neither first nor last. Janet beat Jerry, Jerry beat Pat. Charlie was neither first nor last. Charlie beat Rachel. Pat beat Charlie. Who came last? -- Rachel --
+Dummy -- Jerry --
+Dummy -- Pat --
+Dummy -- Charlie --
+Dummy -- Jerry --
+NewSection-Easy
+£2.00 each or 2/£4.00. What does 2/£4.00 mean? -- half per £1 --
+Dummy -- Two for £4 --
+Dummy -- One for £4 --
+Dummy -- One for 50p --
+Dummy -- Makes no sense. --
+NewSection-Easy
+Which letter worth 10 points in the English version of Scrabble is worth only one in the Polish edition? -- Z --
+Dummy -- S --
+Dummy -- T --
+Dummy -- V --
+Dummy -- W --
+Dummy -- X --
+Dummy -- Y --
+Dummy -- A --
