@@ -60,8 +60,8 @@ What is a programming paradigm that expresses the logic of a computation without
 What is a programming paradigm that is based upon the concept of the procedure call? -- Procedural --
 What is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data? -- Functional --
 What is a programming paradigm that represents concepts as "objects" that have data fields and associated procedures known as methods? -- Object-oriented --
-What described when the most significant value in the sequence is stored at the lowest storage address? -- Big-endian --
-What described when the most significant value in the sequence is stored at the highest storage address? -- Little-endian --
+What describes when the most significant value in the sequence is stored at the lowest storage address? -- Big-endian --
+What describes when the most significant value in the sequence is stored at the highest storage address? -- Little-endian --
 What is a function definition that is not bound to an identifier (anonymous function)? -- Lambda -- 
 What is a classification that determines the possible values; the operations that can be done on the values; the meaning of the data; and the way that the values can be stored? -- Type --
 Why is the minus sign not usually allowed for naming variables in most programming languages? -- Subtraction operator --
@@ -76,7 +76,7 @@ What is a special condition that may occur inside a critical section where the s
 What is a variable or abstract data type that is used for controlling access, by multiple processes, to a common resource in a concurrent system such as a multiprogramming operating system? -- Semaphore --
 What is a program object that allows multiple program threads to share the same resource, such as file access, but not simultaneously? -- Mutex --
 What in C++ (as opposed to C) allows coding for protection against things like buffer overflows? -- Classes --
-What is (function(){ /*...*/ })() ? -- An anonymous FunctionExpression that is called immediately after creation. --
+What is (function(){ /*...*/ })() in js? -- An anonymous Function Expression that is called immediately after creation. --
 What is a cellular automaton devised by the British mathematician John Horton Conway in 1970? -- Game of Life --
 All recursion can be converted into ... -- Iteration --
 In logic, what term denotes the process of applying the logical function to all possible combinations of inputs and outputs and constructing a resultant matrix? -- Truth-table --
@@ -111,7 +111,7 @@ What is a character encoding capable of encoding all possible characters, or cod
 What is a character encoding capable of encoding all 1,112,064 possible characters in Unicode. The encoding is variable-length, as code points are encoded with one or two 16-bit code units? -- utf-16 --
 For the utf what is used if a character encoding lies outside the unit length? -- Leading and Continuation Sequences --
 If we know the encoding of a buffer how do we convert to Unicode? -- Decode with Codec --
-If we have a Unicode string how do we convert to its know representation? -- Encode with Codec --
+If we have a Unicode string how do we convert to its known representation? -- Encode with Codec --
 NewSection-Easy
 What matches will \b(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\b return with 123.234.245.256? -- 123, 234, 245, 256 --
 What matches will \b(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\b return with 123.234.245.256? -- 123.234.245.256 --
@@ -185,3 +185,9 @@ What is the 2nd term in a popular mnemonic acronym for five SW design principles
 What is the 3rd term in a popular mnemonic acronym for five SW design principles? -- Liskov substitution principle --
 What is the 4th term in a popular mnemonic acronym for five SW design principles? -- Interface segregation principle --
 What is the 5th term in a popular mnemonic acronym for five SW design principles? -- Dependency inversion principle --
+NewSection-Easy
+What is 000101011001 in hex? -- 159 --
+What is 000100100011 in hex? -- 123 --
+What is 010001010110 in hex? -- 456 --
+What is 011110001001 in hex? -- 789 --
+What is 101010111100 in hex? -- ABC --

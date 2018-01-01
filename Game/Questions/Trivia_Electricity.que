@@ -125,6 +125,7 @@ What is an electrical insulator that can be polarized by an applied electric fie
 What is a dimensionless proportionality constant that indicates the degree of magnetization of a material in response to an applied magnetic field? -- Magnetic susceptibility --
 What will change when a magnetic material is placed a inside a solenoid? -- Self-inductance --
 What is an electrical supply using one feed cable to a socket taken off a ring main usually used to achieve an extra socket without having to do too much work? -- Spur --
+Whose principal governs the operation of transformers? -- Faraday's principal of “mutual induction” --
 NewSection-Easy
 Which best represents a typical wattage for Oven? -- 3,000W --
 Which best represents a typical wattage for a single bar electric heater? --  1,000W --
@@ -155,3 +156,15 @@ What is most likely to happen if an British 230V appliance is plugged into an Am
 Dummy -- Works as normal --
 Dummy -- Explodes --
 Dummy -- None of these options --
+NewSection-Easy
+Which of these would most fit the description: high voltage, high current -- Lightning --
+Which of these would most fit the description: high voltage, low current -- van der graaf generator --
+Which of these would most fit the description: low voltage, low current -- AAA battery --
+Which of these would most fit the description: low voltage, high current -- welder --
+Dummy -- None of these options --
+NewSection-Easy
+The wire on the secondary coil of a transformer is thicker. What types of transformer is it? -- Step-down --
+Dummy -- Step-up --
+Dummy -- Impossible to tell --
+Dummy -- Laminated core --
+Dummy -- Toroidal --

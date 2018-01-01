@@ -107,7 +107,7 @@ Dummy -- To the right of the sphere. --
 Dummy -- To the left of the sphere. --
 Dummy -- None of these options. --
 NewSection-Easy
-For a given speed, incline and wind resistance a cyclist exerts the same power so matter what the gear. This assumes? -- Constant mechanical efficiency and no acceleration. --
+For a given speed, incline and wind resistance a cyclist exerts the same power no matter what the gear. This assumes? -- Constant mechanical efficiency and no acceleration. --
 Dummy -- Cyclist is accelerating. --
 Dummy -- The mechanical efficiency is a variant. --
 Dummy -- Nothing. --
@@ -124,3 +124,46 @@ Dummy -- Energy --
 Dummy -- Entropy --
 Dummy -- Enthalpy --
 Dummy -- Momentum --
+NewSection-Easy
+Two ice cubes. Which will melt first, the one in water or the one in air, both at room temperature? -- Water -- higher thermal conductivity $$
+Dummy -- Air --
+Dummy -- Neither --
+Dummy -- Both --
+Dummy -- None of these options. --
+NewSection-Easy
+What would happen to your body temperature in space? -- Lower mainly via radiation. --
+Dummy -- Lower mainly via conduction. --
+Dummy -- Lower mainly via convection. --
+Dummy -- Remain constant. --
+Dummy -- None of these options. --
+NewSection-Easy
+What does a gyroscope not fall down when in normal gyroscopic motion? -- Conservation of angular momentum. --
+Dummy -- Conservation of angular energy. --
+Dummy -- Conservation of angular mass. --
+Dummy -- Conservation of angular charge. --
+Dummy -- None of these options. --
+NewSection-Easy
+Identical ballons filled with the same amount of Helium are heated and cooled then released outside. Which rises faster? -- Red one, since larger volume. --
+Dummy -- Red one, since greater mass. --
+Dummy -- Blue one, since greater mass. --
+Dummy -- Blue one, since greater mass. --
+Dummy -- None of these options. --
+NewSection-Easy
+What happens to water in a constricted region of pipe and why? -- Flows faster since mass out must equal mass in. --
+Dummy -- Flows faster since mass out must be greater than mass in. --
+Dummy -- Flows faster since mass out must be less than mass in. --
+Dummy -- Flows slower since mass out must equal mass in. --
+Dummy -- Flows slower since mass out must be greater than mass in. --
+Dummy -- Flows slower since mass out must be less than mass in. --
+NewSection-Easy
+Roughly, what percentage of the Earths surface can a lunar eclipse be observed from? -- 50%--
+Dummy -- 100% --
+Dummy -- 75% --
+Dummy -- 25% --
+Dummy -- 0% --
+NewSection-Easy
+Why does a rope attached to two points on same horizontal with a mass in the middle not hang like a V? -- Because the rope has mass --
+Dummy -- Because the action of gravity is to produce a parabola. --
+Dummy -- It does hang like a V. --
+Dummy -- Because there is an upwards force from the attachment points. --
+Dummy -- None of these options. --

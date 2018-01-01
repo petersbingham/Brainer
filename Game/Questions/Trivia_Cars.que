@@ -16,6 +16,7 @@ What may provide increased traction compared to a standard, or "open" variant by
 What is a mechanical component for transmitting torque and rotation? -- Drive Shaft --
 Why do some people lower the suspension? -- Better handling due to lower center of gravity. --
 What is TDI? -- Turbocharged direct injection --
+What ensures that a vehicle's wheels function in-sync and connects a car's two front wheels to each other? -- Track rod --
 NewSection-Easy
 What allows the 12V DC to be stepped up to 40kV across the sparkplug? -- Core windings and cam action or transistor switch --
 Dummy -- Core windings only --
@@ -59,3 +60,9 @@ What car logo consists of an abreviation of the company name? -- BMW --
 What car logo contains three ellipses? -- Toyota --
 What car logo consists of three diamonds? -- Mitsubishi --
 What car logo consists of a circle and three triangles? -- Mercedes-Benz --
+NewSection-Easy
+Is it possible to start a car using a 12V 1Amp dc power supply? -- No, will require 400 amps --
+Dummy -- No, will require 40 amps --
+Dummy -- No, will require 4 amps --
+Dummy -- No, will require 4000 amps--
+Dummy -- Yes --

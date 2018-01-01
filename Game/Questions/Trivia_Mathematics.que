@@ -130,6 +130,7 @@ What are 2/6 in percent (to 1 dp)? -- 33.3% --
 NewSection-Easy
 What is a standard approach in regression analysis to the approximate solution of overdetermined systems, i.e., sets of equations in which there are more equations than unknowns? -- Least Squares --
 What is a statistical process for estimating the relationships among variables? -- Regression analysis --
+What is a statistical process for estimating linear relationships among variables? -- Linear regression --
 What a is a numeric function that is piecewise-defined by polynomial functions, and which possesses a sufficiently high degree of smoothness at the places where the polynomial pieces connect (which are known as knots)? -- Spline --
 What is important in statistics and often used in the natural and social sciences to represent real-valued random variables whose distributions are not known? -- Normal (or Gaussian) distribution --
 What is a measure that is used to quantify the amount of variation or dispersion of a set of data values? -- Standard Deviation --
@@ -198,7 +199,7 @@ i^3= -- -i --
 i^4= -- 1 --
 i^5= -- i --
 i^-1= -- -i --
-i^-1= -- 0 --
+Dummy -- 0 --
 NewSection-Easy
 (a+bi)+(c+di)= -- (a+c) + (b+d)i --
 (a+bi)-(c+di)= -- (a-c) + (b-d)i --
@@ -237,3 +238,9 @@ How many characters are required to fully represent a base 11 number system? -- 
 How many characters are required to fully represent a base 127 number system? -- 127 --
 How many characters are required to fully represent a base 128 number system? -- 128 --
 How many characters are required to fully represent a base 129 number system? -- 129 --
+NewSection-Easy
+A mean of 10 and standard deviation of 2. What value is two SDs from the mean? -- 14 --
+A mean of 10 and standard deviation of 4. What value is two SDs from the mean? -- 18 --
+A mean of 4 and standard deviation of 2. What value is two SDs from the mean? -- 8 --
+A mean of 4 and standard deviation of 1. What value is one SD from the mean? -- 5 --
+A mean of 4 and standard deviation of 1. What value is three SDs from the mean? -- 7 --
