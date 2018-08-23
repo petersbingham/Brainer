@@ -1,6 +1,6 @@
 NewSection-Easy
 What splits data evenly across two or more disks, without parity information, redundancy, or fault tolerance? -- RAID0 --
-What consists of an exact copy (or mirror) of a set of data on two or more disks; a classic RAID 1 mirrored pair contains two disks? -- RAID1 --
+What consists of an exact copy (or mirror) of a set of data on two or more disks? -- RAID1 --
 What refers to the storing of the same data multiple times in a RAID array? -- Redundancy --
 What refers to an operating system intended to serve real-time application process data as it comes in, typically without buffering delays? -- RTOS --
 What is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves) from fixed and mobile devices, and building personal area networks (PANs)? -- Bluetooth -- 
@@ -36,7 +36,7 @@ What is one of the main protocols in TCP/IP networks which enables a connection 
 What is a communications protocol used for discovering the link layer address associated with a given IPv4 address? -- ARP (Address Resolution Protocol) --
 What name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet? -- Domain --
 What is a piece of data that is used in network communications (often over HTTP) to identify a session, often expiring after a set period of time? -- Token --
-What is a network management protocol used on TCP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks? -- DHCP (Dynamic Host Configuration Protocol) --
+What is a network management protocol used on TCP/IP networks whereby a server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks? -- DHCP (Dynamic Host Configuration Protocol) --
 What is a set of communications protocols used between components in process automation systems? -- DNP3 (Distributed Network Protocol) --
 NewSection-Easy
 What is the domain name in the url: stuff.blog.domainsherpa.com? -- domainsherpa --
@@ -275,7 +275,7 @@ What is free software whose distribution terms ensure that all copies of all ver
 What is software which comes with permission for people to redistribute copies, but says that anyone who continues to use a copy is required to pay a license fee? -- Shareware -- 
 NewSection-Easy
 What protocol is built on a client-server model architecture and uses separate control and data connections between the client and the server and uses port 21? -- FTP (File Transfer Protocol) --
-What ia a cryptographic network protocol for operating network services securely over an unsecured network and uses port 22? -- SSH (Secure Shell) --
+What is a cryptographic network protocol for operating network services securely over an unsecured network and uses port 22? -- SSH (Secure Shell) --
 What application layer protocol is used on the Internet or local area networks to provide a bidirectional interactive text-oriented communication facility using a virtual terminal connection and uses port 23? -- Telnet --
 What protocol is an Internet standard for electronic mail (email) transmission and uses port 25? -- SMTP (Simple Mail Transfer Protocol) --
 What protocol is a hierarchical decentralized naming system for computers, services, or any resource connected to the Internet or a private network and uses port 53? -- DNS (Domain Naming System) --
@@ -320,7 +320,7 @@ Dummy -- All of these options. --
 NewSection-Easy
 How does a CAN bus deal with collisions? -- Bitwise anding the superimposed packets allow priority to be determined. Then wait for turn to retransmit. --
 How does ethernet deal with collisions? -- Waits for a random time before retransmitting. --
-How does usb deal with collision? -- It doesn't need to as each node is multiplexed with an assigned time slot. 
+How does usb deal with collision? -- It doesn't need to as each node is multiplexed with an assigned time slot. --
 Dummy -- It ignores them. --
 Dummy -- None of these options. --
 NewSection-Easy

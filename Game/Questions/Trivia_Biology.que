@@ -39,7 +39,10 @@ Dummy -- Plankton --
 Dummy -- Moss --
 A dolphin is a... -- Mammal --
 A whale is a... -- Mammal --
+A mouse is a... -- Mammal --
 A shark is a... -- Fish --
+A spider is a... -- Arthropod --
+A fly is a... -- Insect --
 NewSection-Easy
 What is a disaccharide sugar derived from galactose and glucose that is found in milk? -- Lactose --
 What is a simple ketonic monosaccharide found in many plants, where it is often bonded to glucose to form the disaccharide sucrose? -- Fructose --
@@ -69,6 +72,7 @@ What is the part of the gastrointestinal tract between the stomach and the large
 What is a blind-ended tube connected to the cecum? -- Appendix --
 What is located in the upper right quadrant of the abdomen, below the diaphragm and has a wide range of functions, including detoxification of various metabolites, protein synthesis, and the production of biochemicals necessary for digestion? -- Liver --
 What is the internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the oesophagus to the small intestine? -- Stomach --
+What produces adrenaline and the steroids aldosterone and cortisol and are found above the kidneys? -- Adrenal glands --
 NewSection-Easy
 What is the largest animal on earth? -- Blue Whale --
 Dummy -- Elephant --
@@ -82,12 +86,12 @@ What is a baby duck called? -- Duckling --
 What is a baby goose called? -- Gosling --
 What is a baby fish called? -- Fry --
 NewSection-Easy
-How many days is the average gestation period in humans? -- 40 weeks --
-Dummy -- 38 weeks --
-Dummy -- 39 weeks --
-Dummy -- 37 weeks --
-Dummy -- 36 weeks --
-Dummy -- 41 weeks --
+How many weeks is the average gestation period in humans? -- 40 --
+Dummy -- 38 --
+Dummy -- 39 --
+Dummy -- 37 --
+Dummy -- 36 --
+Dummy -- 41 --
 NewSection-Easy
 The relationship between your son and your cousin is? -- First cousin, once removed. --
 The relationship between your grand son and your cousin is? -- First cousin, twice removed. --
@@ -100,3 +104,21 @@ Dummy -- White --
 Dummy -- Black and White --
 Dummy -- Black or White --
 Dummy -- None of these options --
+NewSection-Easy
+How old is the earliest evidence of humans? -- 200,000 years --
+Dummy -- 10,000 years --
+Dummy -- 12,500 years --
+Dummy -- 2 million years --
+Dummy -- 10 million years --
+NewSection-Easy
+What system includes all the glands in your body that make hormones? -- Endocrine --
+What system is a network of vessels carrying c a clear fluid? -- Lymphatic --
+What system is where the kidneys filter blood? -- Renal --
+What system circulates blood? -- Circulatory --
+What system collects and processes information from the senses? -- Nervous --
+NewSection-Easy
+Which of these are legitimate pairs of DNA? -- Adenine-Thymine and Pyrimidine-Cytosine --
+Dummy -- Adenine-Cytosine and Pyrimidine-Thymine --
+Dummy -- Adenine-Pyrimidine and Cytosine-Thymine --
+Dummy -- Adenine-Pyrimidine and Pyrimidine-Thymine and Pyrimidine-Adenine --
+Dummy -- Adenine-Thymine and Pyrimidine-Pyrimidine and Pyrimidine-Adenine --
